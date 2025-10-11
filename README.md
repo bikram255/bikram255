@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/bikram255?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/bikram255">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bikram%20Samantaray-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
