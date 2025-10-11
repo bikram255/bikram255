@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/bikram255)  
+- 👨‍💻 All of my projects are available at [https://github.com/bikram255](https://github.com/bikram255)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
 - 📫 How to reach me **samantaraybikram58@gmail.com**
 
