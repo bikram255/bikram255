@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Bikram Samantaray</h1>
 
 <div align="center">
-  <img src="https://github.com/bikram255/bikram255/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/bikram255/bikram255/blob/main/Banner.png" alt="My Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the DAV Organization, A Education Sector where i migrate the old style adminstrative & teaching learning process to cloud and in my free time I make Projects on Cloud</h3>
