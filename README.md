@@ -73,11 +73,7 @@
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
+### 👨‍💼 About Me
 📧 Let’s chat: [samantaraybikram58@gmail.com](mailto:samantaraybikram58@gmail.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
